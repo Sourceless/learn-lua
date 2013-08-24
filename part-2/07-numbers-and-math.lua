@@ -1,0 +1,15 @@
+-- 4
+-- 0.4
+-- .4
+-- 4.3
+-- 0xFF
+-- 0xA33FF0E
+-- 8.7e12
+-- 8.7e+12
+-- 8e-12
+
+-- The math module contains many of the matchematical functions you'd expect
+-- math.huge is the largest possible number
+-- there is no math.round
+-- math.random for psuedorandom numbers, math.randomseed beforehand to set seed
+-- math.random(os.time())
